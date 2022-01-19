@@ -1,0 +1,17 @@
+{
+  "name": "tim-the-arcane/sistrix-client",
+  "description": "Client library for retrieving data from the Sistrix API",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tim Rüdenauer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.0",
+    "vlucas/phpdotenv": "^5.4"
+  }
+}
